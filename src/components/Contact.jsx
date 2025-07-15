@@ -3,7 +3,7 @@ import contactImg from '../assets/images/contact.jpg';
 
 const Contact = () => {
   return (
-    <section className="flex flex-col md:flex-row">
+    <section className="flex flex-col md:flex-row border-t border-white">
       <div className="flex-1 bg-[#EDE7DF] p-12 flex flex-col justify-center">
         <h2 className="text-3xl font-bold mb-4">CONTACT US</h2>
         <p className="mb-6">We are here to meet any business need and to promote your company online!</p>
